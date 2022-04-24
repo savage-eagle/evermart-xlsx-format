@@ -1,3 +1,7 @@
+# Entrar em contato comigo
+
+Precisa de automações ou desenvolvimento web? Entre em contato comigo via o e-mail 4419970@gmail.com
+
 # Projeto & Dor
 
 Desenvolvo SaaS no dia-a-dia e uma dos produtos que criei quebrou e infelizmente ainda não tem como reprocessar Webhooks na Evermart. A solução que encontrei foi baixar o xlsx do período que quebrou e processar as informações.
